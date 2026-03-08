@@ -51,10 +51,4 @@ The **City Opportunity Heatmap** analyzes foot traffic, competition density, and
 
 This project is ready for deployment on **Vercel**:
 
-1.  Push your code to GitHub.
-2.  Import the repository into Vercel.
-3.  Vercel will automatically detect the Vite configuration and deploy.
-
-## 📄 License
-
-This project is licensed under the MIT License.
+https://city-opportunity-heatmap-mongemery.vercel.app/
