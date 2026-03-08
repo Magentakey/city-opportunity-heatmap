@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "location_name": "Eastdale Mall Area",
+    "category": "Shopping Centers",
+    "monthly_visits": 125000,
+    "latitude": 32.3792,
+    "longitude": -86.2311,
+    "competition_count": 2,
+    "daytime_pop": 45000
+  },
+  {
+    "id": 2,
+    "location_name": "Sturbridge Village",
+    "category": "Dining",
+    "monthly_visits": 85000,
+    "latitude": 32.3555,
+    "longitude": -86.1655,
+    "competition_count": 8,
+    "daytime_pop": 25000
+  },
+  {
+    "id": 3,
+    "location_name": "Eastchase Central",
+    "category": "Shopping Centers",
+    "monthly_visits": 110000,
+    "latitude": 32.3611,
+    "longitude": -86.1555,
+    "competition_count": 5,
+    "daytime_pop": 38000
+  },
+  {
+    "id": 4,
+    "location_name": "Downtown Market St",
+    "category": "Groceries",
+    "monthly_visits": 95000,
+    "latitude": 32.3775,
+    "longitude": -86.3005,
+    "competition_count": 1,
+    "daytime_pop": 60000
+  },
+  {
+    "id": 5,
+    "location_name": "Westside Health Hub",
+    "category": "Medical & Health",
+    "monthly_visits": 45000,
+    "latitude": 32.3660,
+    "longitude": -86.3300,
+    "competition_count": 3,
+    "daytime_pop": 15000
+  },
+  {
+    "id": 6,
+    "location_name": "Southside Leisure Park",
+    "category": "Leisure",
+    "monthly_visits": 65000,
+    "latitude": 32.3200,
+    "longitude": -86.2800,
+    "competition_count": 2,
+    "daytime_pop": 12000
+  },
+  {
+    "id": 7,
+    "location_name": "Northgate Apparel Row",
+    "category": "Apparel",
+    "monthly_visits": 55000,
+    "latitude": 32.4200,
+    "longitude": -86.2500,
+    "competition_count": 12,
+    "daytime_pop": 22000
+  },
+  {
+    "id": 8,
+    "location_name": "Midtown Gas & Go",
+    "category": "Gas Stations",
+    "monthly_visits": 78000,
+    "latitude": 32.3700,
+    "longitude": -86.2600,
+    "competition_count": 4,
+    "daytime_pop": 30000
+  },
+  {
+    "id": 9,
+    "location_name": "Riverfront Dining",
+    "category": "Dining",
+    "monthly_visits": 105000,
+    "latitude": 32.3850,
+    "longitude": -86.3150,
+    "competition_count": 15,
+    "daytime_pop": 55000
+  },
+  {
+    "id": 10,
+    "location_name": "Suburban Grocer",
+    "category": "Groceries",
+    "monthly_visits": 42000,
+    "latitude": 32.3400,
+    "longitude": -86.2000,
+    "competition_count": 6,
+    "daytime_pop": 18000
+  }
+]
