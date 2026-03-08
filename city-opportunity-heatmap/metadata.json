@@ -1,5 +1,0 @@
-{
-  "name": "City Opportunity Heatmap",
-  "description": "An interactive data visualization tool to identify high-potential business opportunities in a city based on visitor traffic and category demand.",
-  "requestFramePermissions": ["geolocation"]
-}
